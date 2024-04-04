@@ -1,0 +1,8 @@
+fonts are the way of your characters repersentation in site.
+fonts are mixed as a combination of font family
+there are 5 font families  existed
+serif:fonts with extra strokes  at the end of each horizontal & vertical 
+sans-serif
+cursive
+fantasy
+monospace

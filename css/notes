@@ -1,0 +1,23 @@
+GML=>SGML=>1992-HTML
+WWW(world wide web onsoritum)-1994-1999
+cascading style sheets(css)
+current version  of css is css3
+css is used for styling/desiging of web page
+css can be implemented in  HTML using three ways
+1.inline css:in the line of an element ,we can write "style" as property
+2. internal css:usually all css with selectors can be included in "style"element
+usually syntax
+<style>
+   selector {
+    proper:value;
+    }
+</style>
+3.external css:you can write css in external file with extensions css and link that file in HTML.
+<link rel="style sheet" href="link"/>
+preferences
+inlines >internal>external.
+id>class>tag name.
+!important can bring anything to the top of priority chain
+class is used to identify the element or group of elements. multiple elements may have same class name or one element may have multiple class names
+to use class we use notations
+id is unique for an element
